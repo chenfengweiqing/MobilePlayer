@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">影音播放</string>
+    <string name="ready_start">正在启动...</string>
+    <string name="no_video">没有发现视频...</string>
+    <string name="video_name">视频的名称</string>
+    <string name="video_duration">视频的长度</string>
+    <string name="video_size">视频的大小</string>
+    <string name="video_play_finish">视频播放完成</string>
+    <string name="video_play_error">视频播放出错</string>
+    <string name="player_name">321影音(系统推荐)</string>
+</resources>
